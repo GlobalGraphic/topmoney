@@ -1,0 +1,15 @@
+* { box-sizing: border-box; }
+
+::-webkit-scrollbar {
+	display: none;
+}
+
+body , html {
+	margin: 0;
+	padding: 0;
+	background: grey url("pozickabg.jpg") no-repeat fixed center;
+}
+
+#goright {
+	margin-left: 3%;
+}
